@@ -15,3 +15,7 @@ This chat application is built in kotlin language and saved data of user in the 
 
 ![Latest chat message](https://user-images.githubusercontent.com/53367782/120216112-36f50200-c254-11eb-857f-7a4bd4deaa8b.png)
 
+//Select user screen-can select user to start coversation
+
+![Select user to chat](https://user-images.githubusercontent.com/53367782/120216368-8cc9aa00-c254-11eb-90aa-0e3bef0d399f.png)
+
