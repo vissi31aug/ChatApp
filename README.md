@@ -11,3 +11,7 @@ This chat application is built in kotlin language and saved data of user in the 
 
 ![LogIn](https://user-images.githubusercontent.com/53367782/120215900-eed5df80-c253-11eb-8836-7b3b3bc5b7a3.png)
 
+//Latest Message Screen- Users will see the latest message sent and received
+
+![Latest chat message](https://user-images.githubusercontent.com/53367782/120216112-36f50200-c254-11eb-857f-7a4bd4deaa8b.png)
+
