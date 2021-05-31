@@ -19,3 +19,8 @@ This chat application is built in kotlin language and saved data of user in the 
 
 ![Select user to chat](https://user-images.githubusercontent.com/53367782/120216368-8cc9aa00-c254-11eb-90aa-0e3bef0d399f.png)
 
+//Message chatlog
+
+![coversation](https://user-images.githubusercontent.com/53367782/120216606-dca87100-c254-11eb-8496-2e5bdb11ae3c.png)
+
+
