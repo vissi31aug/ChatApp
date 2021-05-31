@@ -6,3 +6,8 @@ This chat application is built in kotlin language and saved data of user in the 
 //Registration screen-can register through email.
 
 ![Registration](https://user-images.githubusercontent.com/53367782/120215566-82f37700-c253-11eb-86c8-9059cf0e3a75.png)
+
+//LogIn Screen-registered user login back 
+
+![LogIn](https://user-images.githubusercontent.com/53367782/120215900-eed5df80-c253-11eb-8836-7b3b3bc5b7a3.png)
+
